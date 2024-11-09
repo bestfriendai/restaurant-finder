@@ -1,0 +1,180 @@
+
+> restaurant-finder@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+   ▲ Next.js 14.0.4
+   - Local:        http://localhost:3001
+
+ ✓ Ready in 1582ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.1s (3934 modules)
+ ✓ Compiled in 1434ms (3919 modules)
+ ✓ Compiled in 173ms (1950 modules)
+ ✓ Compiled in 148ms (1951 modules)
+ ✓ Compiled in 116ms (1951 modules)
+ ⚠ ./app/components/FavoritesDrawer.tsx
+Attempted import error: 'Drawer' is not exported from '@nextui-org/react' (imported as 'Drawer').
+
+Import trace for requested module:
+./app/components/FavoritesDrawer.tsx
+./app/page.tsx
+ ⚠ ./app/components/FavoritesDrawer.tsx
+Attempted import error: 'Drawer' is not exported from '@nextui-org/react' (imported as 'Drawer').
+
+Import trace for requested module:
+./app/components/FavoritesDrawer.tsx
+./app/page.tsx
+ ⚠ ./app/components/FavoritesDrawer.tsx
+Attempted import error: 'Drawer' is not exported from '@nextui-org/react' (imported as 'Drawer').
+
+Import trace for requested module:
+./app/components/FavoritesDrawer.tsx
+./app/page.tsx
+ ⚠ ./app/components/FavoritesDrawer.tsx
+Attempted import error: 'Drawer' is not exported from '@nextui-org/react' (imported as 'Drawer').
+
+Import trace for requested module:
+./app/components/FavoritesDrawer.tsx
+./app/page.tsx
+ ⚠ ./app/components/FavoritesDrawer.tsx
+Attempted import error: 'Drawer' is not exported from '@nextui-org/react' (imported as 'Drawer').
+
+Import trace for requested module:
+./app/components/FavoritesDrawer.tsx
+./app/page.tsx
+ ⚠ ./app/components/FavoritesDrawer.tsx
+Attempted import error: 'Drawer' is not exported from '@nextui-org/react' (imported as 'Drawer').
+
+Import trace for requested module:
+./app/components/FavoritesDrawer.tsx
+./app/page.tsx
+ ○ Compiling / ...
+ ⚠ ./app/components/FavoritesDrawer.tsx
+Attempted import error: 'Drawer' is not exported from '@nextui-org/react' (imported as 'Drawer').
+
+Import trace for requested module:
+./app/components/FavoritesDrawer.tsx
+./app/page.tsx
+
+./app/components/FavoritesDrawer.tsx
+Attempted import error: 'Drawer' is not exported from '@nextui-org/react' (imported as 'Drawer').
+
+Import trace for requested module:
+./app/components/FavoritesDrawer.tsx
+./app/page.tsx
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check your code at FavoritesDrawer.tsx:16.
+    at FavoritesDrawer (webpack-internal:///(ssr)/./app/components/FavoritesDrawer.tsx:13:28)
+    at Home (webpack-internal:///(ssr)/./app/page.tsx:24:171)
+    at StaticGenerationSearchParamsBailoutProvider (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js:15:11)
+    at Lazy
+    at InnerLayoutRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/layout-router.js:239:11)
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:71:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:79:11)
+    at NotFoundErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/not-found-boundary.js:54:9)
+    at NotFoundBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/not-found-boundary.js:62:11)
+    at LoadingBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/layout-router.js:313:11)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:128:11)
+    at InnerScrollAndFocusHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/compo ✓ Compiled in 158ms (2091 modules)
+ ✓ Compiled in 139ms (2091 modules)
+ ✓ Compiled in 178ms (2092 modules)
+ ✓ Compiled in 122ms (2092 modules)
+ ✓ Compiled in 126ms (2092 modules)
+ ✓ Compiled in 123ms (2092 modules)
+ ✓ Compiled in 160ms (2092 modules)
+ ✓ Compiled in 127ms (2092 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/workspace/restaurant-finder/.next/cache/webpack/client-development/2.pack.gz_' -> '/workspace/restaurant-finder/.next/cache/webpack/client-development/2.pack.gz'
+ ✓ Compiled in 168ms (2092 modules)
+ ✓ Compiled in 210ms (2092 modules)
+ ✓ Compiled in 189ms (2092 modules)
+ ✓ Compiled in 168ms (2092 modules)
+t/useModal.mjs:60:54)
+    at $f57aed4a881a3485$export$178405afcd8c5eb (webpack-internal:///(ssr)/./node_modules/@react-aria/overlays/dist/useModal.mjs:27:21)
+    at $f57aed4a881a3485$export$bf688221f59024e5
+    at $18f2051aff69b9bf$export$a54013f0d02a8f82 (webpack-internal:///(ssr)/./node_modules/@react-aria/i18n/dist/context.mjs:24:19)
+    at NextUIProvider (webpack-internal:///(ssr)/./node_modules/@nextui-org/system/dist/chunk-PYQ4KYZP.mjs:20:25)
+    at Providers (webpack-internal:///(ssr)/./app/providers.tsx:12:22)
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:71:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:79:11)
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js:66:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js:296:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:155:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:99:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:128:11)
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:421:13)
+    at Lazy
+    at Lazy
+    at /workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:381577
+    at /workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:381577
+    at ServerInsertedHTMLProvider (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:39:17605)
+ ⨯ Internal error: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:43345)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46298)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at ag (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:7923)
+    at /workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:13014
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:13038)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46298)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at a_ (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:50165)
+    at ak (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:49406)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46647)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:39511)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46298)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at ag (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:7923)
+    at /workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:13014
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:13038)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46298)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at ag (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:7923)
+    at /workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:13014
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:13038)
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:43088)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46298)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at a_ (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:50165)
+    at ak (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:49406)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46647)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:41727)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46298)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at ag (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:7923)
+    at /workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:13014
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:13038)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46298)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at as (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:7504)
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:10920)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46298)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at ag (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:7923)
+    at /workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:13014
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:13038)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46298)
+    at aS (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:48276)
+    at as (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:7504)
+    at ab (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:10920)
+    at e (/workspace/restaurant-finder/node_modules/next/dist/compiled/next-server/app-page.runtime.dev.js:35:46298)
+ ✓ Compiled / in 282ms (3962 modules)
+ ✓ Compiled in 239ms (3962 modules)
+ ✓ Compiled in 136ms (1972 modules)
+ ✓ Compiled in 162ms (1972 modules)
+ ✓ Compiled in 118ms (1972 modules)
+ ✓ Compiled in 142ms (1972 modules)
+ ✓ Compiled in 126ms (1972 modules)
+ ✓ Compiled in 141ms (1972 modules)
+ ✓ Compiled / in 260ms (1992 modules)
+ ✓ Compiled in 336ms (3964 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/workspace/restaurant-finder/.next/cache/webpack/client-development/0.pack.gz_' -> '/workspace/restaurant-finder/.next/cache/webpack/client-development/0.pack.gz'
+ ✓ Compiled in 210ms (1972 modules)
+ ✓ Compiled in 176ms (1972 modules)
+ ✓ Compiled in 173ms (1972 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/workspace/restaurant-finder/.next/cache/webpack/client-development/0.pack.gz_' -> '/workspace/restaurant-finder/.next/cache/webpack/client-development/0.pack.gz'
