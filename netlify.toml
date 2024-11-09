@@ -1,0 +1,21 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+  functions = "netlify/functions"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[build.environment]
+  NETLIFY_USE_YARN = "false"
+  NODE_VERSION = "18"
+  NEXT_PUBLIC_YELP_API_KEY = "iYwFjiwmMDv08lJz8H_Dvsxx93H81MYLGkexEMvxH8J60I1pxc5GpyzTZyaO6xDtQ-jlAIJaC6ujscO6rHTbq8wgpge_bUuz2nQa0VpcLU5ikY2mBWw8AfVfiDMoZ3Yx"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[context.production]
+  command = "npm run build"
+
